@@ -97,5 +97,5 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 ---
 
 <p align="center">
-  Fait avec ❤️ par <a href="https://github.com/votre-nom">Votre Nom</a>
+  Fait avec ❤️ par <a href="https://github.com/votre-nom">CiscoDerm</a>
 </p>
