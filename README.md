@@ -41,7 +41,7 @@ Mouse Trembler est un script Python ludique qui fait trembler automatiquement vo
 
 1. Clonez le dépôt :
 ```bash
-git clone https://github.com/votre-nom/mouse-trembler.git
+git clone https://github.com/ciscoderm/mouse_giggler.git
 cd mouse-trembler
 ```
 
