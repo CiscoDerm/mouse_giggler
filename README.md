@@ -54,7 +54,7 @@ pip install pyautogui
 
 1. Lancez le script :
 ```bash
-python mouse_trembler.py
+python3 mouse_giggler.py
 ```
 
 2. Pour arrêter :
